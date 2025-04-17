@@ -8,6 +8,7 @@
 
 <p align="center">
     <b>Projeto Responsivo com Grid e Consumo de API da NASA</b>
+<p>💫 Projeto desenvolvido com o objetivo de aprimorar conhecimentos em CSS Grid Layout e design responsivo.</p>
 </p>
 
 
