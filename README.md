@@ -11,7 +11,7 @@
 <p align="center">💫 Projeto desenvolvido com o objetivo de aprimorar conhecimentos em CSS Grid Layout e design responsivo.</p>
 </p>
 
-<p>💻Acesse aqui: https://grid-template-api-nasa.vercel.app/</p>
+<p align="center">💻Acesse aqui: https://grid-template-api-nasa.vercel.app/</p>
 
 <h2 id="layout">🎨 Layout</h2>
 
