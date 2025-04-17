@@ -2,8 +2,8 @@
 <h1 align="center" style="font-weight: bold;">Criador de personagem de RPG 💻</h1>
 
 <p align="center">
- <a href="#layout">Layout</a> 
- <a href="#tech">Technologies</a> • 
+ <a href="#layout">Layout</a> •
+ <a href="#tech">Technologies</a>  
 </p>
 
 <p align="center">
