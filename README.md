@@ -34,5 +34,5 @@
 
 
 
-<p>Projeto proposto pelo curso React: desenvolvendo com JavaScript, da Alura.</p>
+<p>Projeto proposto pelo curso Origamid: CSS Grid Layout.</p>
 
